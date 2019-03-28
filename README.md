@@ -1,5 +1,6 @@
 # Nginx
  This is a skeleton guide on how to recreate the deployment used for Scavengers' Repo, Disaster Response, etc.
+ I used it to deploy 
  Ingredients: 
  A host you can ssh into
  Install ssh
